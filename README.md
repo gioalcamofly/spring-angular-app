@@ -2,6 +2,7 @@
 
 - I decided to create a model per each data type the API so it could be easier to manage the data in possible future improvements (right now they are not extremely necessary).
 - In the controllers section, I tried to make some abstraction as all of them have some things in common.
+- I chose using Spring framework for two main reasons: It provides an easy way to create an API and to consume another, and because it's something I would like to keep learning.
 
 **Possible improvements**
 
